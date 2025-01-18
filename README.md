@@ -1,4 +1,4 @@
-# My-Projects List
+# My-Project List
 1. prj1_aws is Terraform project to deploy instance with security group
 2. prj2_aws is Terraform project to use centralised variable file vars.tf
 3. prj3_Terraform_aws is Terraform project includes web site hosting using provisioners
