@@ -1,2 +1,8 @@
-# My-Projects
-# This is my first file
+# My-Projects List
+1. prj1_aws is Terraform project to deploy instance with security group
+2. prj2_aws is Terraform project to use centralised variable file vars.tf
+3. prj3_Terraform_aws is Terraform project includes web site hosting using provisioners
+4. prj4_Terraform_aws is Terraform project where Public-IP and Private-IP are printed and Private-IP is also saved in a new txt file using outputs
+5. prj5_Terraform_aws is Terraform project where backend S3 bucket is created
+6. prj6Terraform_aws is Terraform project where VPC, NAT GW, 3 private and public subnets in 3 AZs with Route Table is created using module
+7. prj100_Docker_testnode is Docker project to create testnode
